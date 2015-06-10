@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Incidencias</string>
+
+    <string name="title_section1">Pdte asignación</string>
+    <string name="title_section2">Pdte valoración</string>
+    <string name="title_section3">Pdte tarea externa</string>
+    <string name="title_section4">Pdte tarea por parte usuario</string>
+    <string name="title_section5">En curso</string>
+    <string name="title_section6">Desestimado</string>
+    <string name="title_section7">Proyecto a evaluar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
